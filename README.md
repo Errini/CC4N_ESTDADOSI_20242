@@ -7,18 +7,18 @@
 #### Passo 2: Organize as Atividades
 As atividades serão postadas no blog da disciplina e devem ser organizadas de acordo com o cronograma abaixo:
 
-- **Atividade 1: até 02/11/2024**  
+- **Atividade 1: 02/11/2024**  
   - **Conteúdo**: Estruturas de Ordenação Simples (Bubblesort, Selection Sort, Insertion Sort).  
-  - **Valor**: 0,5 ponto.
+  - **Valor**: 0,25 ponto por algoritmo, totalizando 0,75 ponto.
 
-- **Atividade 2: até 16/11/2024**  
-  - **Conteúdo**: Estruturas de Ordenação Complexas (Mergesort, Quicksort, Shell Sort, Radix Sort e Heap Sort).  
-  - **Valor**: 1,0 ponto.
+- **Atividade 2: 16/11/2024**  
+  - **Conteúdo**: Estruturas de Ordenação Complexas (Mergesort, Quicksort, Shell Sort).  
+  - **Valor**: 0,25 ponto por algoritmo, totalizando 0,75 ponto.
 
-- **Atividade Final: até 01/12/2024**  
+- **Atividade Final: 01/12/2024**  
   - **Conteúdo**: Árvores de Busca (BST e AVL).  
-  - **Valor**: 1,5 pontos.
-    
+  - **Valor**: 0,75 ponto por estrutura, totalizando 1,5 ponto.
+
 #### Estrutura de Arquivos
 Dentro do seu repositório, crie uma pasta para cada atividade, com subpastas para cada algoritmo ou estrutura, e salve seus códigos organizadamente. Por exemplo:
 
@@ -31,10 +31,7 @@ Atividade_1/
     ├── InsertionSort/
     │     └── insertionsort.c
 
-Atividade_2/ (Exemplo)
-    ├── Apresentação/
-    │     └── apresentacao.pptx
-    │     └── codigo.c
+Atividade_2/
     ├── Mergesort/
     │     └── mergesort.c
     ├── Quicksort/
